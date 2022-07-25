@@ -1,3 +1,4 @@
+This repo is for cp2k based on dflow
 # Introduction
 
 In this tutorial, dflow is used for theoretical simulations of electronic structure properties of materials based on cp2k. This automated workflow makes parallel computations possible and we can monitor the simulation process in front of the screen instead of manually submitting repetitive computational tasks.
